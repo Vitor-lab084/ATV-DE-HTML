@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cadastro</title>
+</head>
+
+<body>
+
+    <h1>Cadastro</h1>
+
+    <form>
+
+        <label>Nome:</label><br>
+        <input type="text"><br><br>
+
+        <label>Email:</label><br>
+        <input type="email"><br><br>
+
+        <label>Idade:</label><br>
+        <input type="number"><br><br>
+
+        <label>Data de nascimento:</label><br>
+        <input type="date"><br><br>
+
+        <label>Senha:</label><br>
+        <input type="password"><br><br>
+
+        <p>Hobbies:</p>
+        <input type="checkbox"> Jogar<br>
+        <input type="checkbox"> Música<br>
+        <input type="checkbox"> Esporte<br><br>
+
+        <p>Turno:</p>
+        <input type="radio" name="turno"> Manhã<br>
+        <input type="radio" name="turno"> Tarde<br>
+        <input type="radio" name="turno"> Noite<br><br>
+
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Limpar">
+
+    </form>
+
+</body>
+</html>
