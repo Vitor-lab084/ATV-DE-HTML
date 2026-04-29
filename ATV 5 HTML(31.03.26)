@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Horários</title>
+</head>
+
+<body>
+
+    <h1>Meus Hobbies e Horários</h1>
+
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Jogar</li>
+        <li>Ouvir música</li>
+        <li>Assistir vídeos</li>
+        <li>Mexer no celular</li>
+        <li>Programar</li>
+    </ul>
+
+    <h2>Horários</h2>
+    <table border="1">
+        <tr>
+            <th>Disciplina</th>
+            <th>Professor</th>
+        </tr>
+
+        <tr>
+            <td>Matemática</td>
+            <td>Kacio</td>
+        </tr>
+
+        <tr>
+            <td>Português</td>
+            <td>Alessandra</td>
+        </tr>
+
+        <tr>
+            <td>História</td>
+            <td>Verbena</td>
+        </tr>
+
+        <tr>
+            <td>Geografia</td>
+            <td>Luciana</td>
+        </tr>
+
+        <tr>
+            <td>Programação Web</td>
+            <td>Renan</td>
+        </tr>
+    </table>
+
+</body>
+</html>
+
+Aluno: João Vitor Costa De Araújo 2°A INFO
