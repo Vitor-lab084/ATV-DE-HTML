@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sobre Mim</title>
+</head>
+
+<body>
+
+    <h1>João Vitor Costa</h1>
+
+    <img src="foto.jpg" alt="Minha foto" width="150">
+
+    <p>Meu nome é João Vitor, gosto de mexer no computador e aprender coisas novas.</p>
+
+    <a href="https://www.youtube.com" target="_blank">Site que eu gosto</a>
+
+</body>
+</html>
+
+Aluno: João VItor Costa De Araújo 2°A INFO
