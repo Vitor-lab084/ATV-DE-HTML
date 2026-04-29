@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Site</title>
+</head>
+
+<body>
+
+    <h1>Futebol</h1>
+
+    <h2>O que é futebol</h2>
+    <p>O futebol é um esporte muito popular no mundo todo.</p>
+
+    <hr>
+
+    <h2>Regras básicas</h2>
+    <p>O jogo é jogado com uma bola e dois times.</p>
+
+    <hr>
+
+    <h2>Importância do futebol</h2>
+    <p>O futebol é importante para a saúde e diversão.</p>
+    <p>É um esporte <strong>muito famoso</strong>.</p>
+
+</body>
+</html>
+
+Aluno: João Vitor Costa De Araujo 2° A INFO
